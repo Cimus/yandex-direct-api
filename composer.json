@@ -1,12 +1,16 @@
 {
-  "name": "tugrik/yandex-direct-api",
+  "name": "cimus/yandex-direct-api",
   "description": "Client for Yandex.Direct API v5",
   "minimum-stability": "dev",
-  "license": "BEERWARE",
+  "license": "MIT",
   "authors": [
     {
       "name": "Andrey",
       "email": "tugriky@gmail.com"
+    },
+    {
+      "name": "Sergey Ageev (Cimus)",
+      "email": "s_ageev@mail.ru"
     }
   ],
   "require": {

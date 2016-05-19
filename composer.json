@@ -14,9 +14,9 @@
     }
   ],
   "require": {
-    "symfony/validator": "^2.8",
+    "symfony/validator": "~2.2|~3.0",
     "doctrine/annotations": "^1.2.7",
-    "doctrine/cache": "^1.6.1",
+    "doctrine/cache": "^1.6",
     "netresearch/jsonmapper": "~0.10.0"
   },
   "autoload": {
